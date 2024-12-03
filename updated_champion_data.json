@@ -1,0 +1,1787 @@
+[
+  {
+    "id": "none",
+    "key": "none",
+    "roles": []
+  },
+  {
+    "id": "Aatrox",
+    "key": "266",
+    "roles": [
+      "TOP"
+    ],
+    "win_rates": [
+      "50.26%"
+    ]
+  },
+  {
+    "id": "Ahri",
+    "key": "103",
+    "roles": [
+      "MIDDLE"
+    ],
+    "win_rates": [
+      "51.02%"
+    ]
+  },
+  {
+    "id": "Akali",
+    "key": "84",
+    "roles": [
+      "MIDDLE"
+    ],
+    "win_rates": [
+      "49.81%",
+      "49.71%"
+    ]
+  },
+  {
+    "id": "Akshan",
+    "key": "166",
+    "roles": [
+      "MIDDLE"
+    ],
+    "win_rates": [
+      "51.89%"
+    ]
+  },
+  {
+    "id": "Alistar",
+    "key": "12",
+    "roles": [
+      "UTILITY"
+    ],
+    "win_rates": [
+      "49.18%"
+    ]
+  },
+  {
+    "id": "Ambessa",
+    "key": "799",
+    "roles": [
+      "TOP",
+      "JUNGLE"
+    ],
+    "win_rates": [
+      "51.16%",
+      "51.58%",
+      "46.26%"
+    ]
+  },
+  {
+    "id": "Amumu",
+    "key": "32",
+    "roles": [
+      "JUNGLE"
+    ],
+    "win_rates": [
+      "49.87%"
+    ]
+  },
+  {
+    "id": "Anivia",
+    "key": "34",
+    "roles": [
+      "MIDDLE"
+    ],
+    "win_rates": [
+      "52.14%"
+    ]
+  },
+  {
+    "id": "Annie",
+    "key": "1",
+    "roles": [
+      "MIDDLE"
+    ],
+    "win_rates": [
+      "51.22%"
+    ]
+  },
+  {
+    "id": "Aphelios",
+    "key": "523",
+    "roles": [
+      "BOTTOM"
+    ],
+    "win_rates": [
+      "48.59%"
+    ]
+  },
+  {
+    "id": "Ashe",
+    "key": "22",
+    "roles": [
+      "BOTTOM"
+    ],
+    "win_rates": [
+      "50.65%"
+    ]
+  },
+  {
+    "id": "Aurelion Sol",
+    "key": "136",
+    "roles": [
+      "MIDDLE"
+    ],
+    "win_rates": [
+      "50.69%"
+    ]
+  },
+  {
+    "id": "Aurora",
+    "key": "893",
+    "roles": [
+      "TOP",
+      "MIDDLE"
+    ],
+    "win_rates": [
+      "50.04%",
+      "49.22%"
+    ]
+  },
+  {
+    "id": "Azir",
+    "key": "268",
+    "roles": [
+      "MIDDLE"
+    ],
+    "win_rates": [
+      "48.72%"
+    ]
+  },
+  {
+    "id": "Bard",
+    "key": "432",
+    "roles": [
+      "UTILITY"
+    ],
+    "win_rates": [
+      "50.84%"
+    ]
+  },
+  {
+    "id": "Belveth",
+    "key": "200",
+    "roles": [
+      "JUNGLE"
+    ],
+    "win_rates": [
+      "51.10%"
+    ]
+  },
+  {
+    "id": "Blitzcrank",
+    "key": "53",
+    "roles": [
+      "UTILITY"
+    ],
+    "win_rates": [
+      "49.77%"
+    ]
+  },
+  {
+    "id": "Brand",
+    "key": "63",
+    "roles": [
+      "UTILITY"
+    ],
+    "win_rates": [
+      "52.54%",
+      "50.28%",
+      "49.63%"
+    ]
+  },
+  {
+    "id": "Braum",
+    "key": "201",
+    "roles": [
+      "UTILITY"
+    ],
+    "win_rates": [
+      "51.34%"
+    ]
+  },
+  {
+    "id": "Briar",
+    "key": "233",
+    "roles": [
+      "JUNGLE"
+    ],
+    "win_rates": [
+      "50.78%"
+    ]
+  },
+  {
+    "id": "Caitlyn",
+    "key": "51",
+    "roles": [
+      "BOTTOM"
+    ],
+    "win_rates": [
+      "49.43%"
+    ]
+  },
+  {
+    "id": "Camille",
+    "key": "164",
+    "roles": [
+      "TOP"
+    ],
+    "win_rates": [
+      "50.97%",
+      "49.75%"
+    ]
+  },
+  {
+    "id": "Cassiopeia",
+    "key": "69",
+    "roles": [
+      "MIDDLE"
+    ],
+    "win_rates": [
+      "53.99%",
+      "52.38%"
+    ]
+  },
+  {
+    "id": "Chogath",
+    "key": "31",
+    "roles": [
+      "TOP"
+    ],
+    "win_rates": [
+      "51.84%",
+      "52.07%"
+    ]
+  },
+  {
+    "id": "Corki",
+    "key": "42",
+    "roles": [
+      "MIDDLE",
+      "BOTTOM"
+    ],
+    "win_rates": [
+      "51.11%",
+      "48.07%"
+    ]
+  },
+  {
+    "id": "Darius",
+    "key": "122",
+    "roles": [
+      "TOP"
+    ],
+    "win_rates": [
+      "50.43%"
+    ]
+  },
+  {
+    "id": "Diana",
+    "key": "131",
+    "roles": [
+      "JUNGLE",
+      "MIDDLE"
+    ],
+    "win_rates": [
+      "50.51%",
+      "50.85%"
+    ]
+  },
+  {
+    "id": "Draven",
+    "key": "119",
+    "roles": [
+      "BOTTOM"
+    ],
+    "win_rates": [
+      "50.48%"
+    ]
+  },
+  {
+    "id": "Dr Mundo",
+    "key": "36",
+    "roles": [
+      "TOP"
+    ],
+    "win_rates": [
+      "50.93%",
+      "50.87%"
+    ]
+  },
+  {
+    "id": "Ekko",
+    "key": "245",
+    "roles": [
+      "JUNGLE"
+    ],
+    "win_rates": [
+      "50.44%",
+      "50.92%"
+    ]
+  },
+  {
+    "id": "Elise",
+    "key": "60",
+    "roles": [
+      "JUNGLE"
+    ],
+    "win_rates": [
+      "51.07%"
+    ]
+  },
+  {
+    "id": "Evelynn",
+    "key": "28",
+    "roles": [
+      "JUNGLE"
+    ],
+    "win_rates": [
+      "50.03%"
+    ]
+  },
+  {
+    "id": "Ezreal",
+    "key": "81",
+    "roles": [
+      "BOTTOM"
+    ],
+    "win_rates": [
+      "49.40%"
+    ]
+  },
+  {
+    "id": "Fiddlesticks",
+    "key": "9",
+    "roles": [
+      "JUNGLE"
+    ],
+    "win_rates": [
+      "51.42%"
+    ]
+  },
+  {
+    "id": "Fiora",
+    "key": "114",
+    "roles": [
+      "TOP"
+    ],
+    "win_rates": [
+      "50.07%"
+    ]
+  },
+  {
+    "id": "Fizz",
+    "key": "105",
+    "roles": [
+      "MIDDLE"
+    ],
+    "win_rates": [
+      "50.09%"
+    ]
+  },
+  {
+    "id": "Galio",
+    "key": "3",
+    "roles": [
+      "MIDDLE"
+    ],
+    "win_rates": [
+      "50.93%",
+      "49.38%",
+      "50.18%"
+    ]
+  },
+  {
+    "id": "Gangplank",
+    "key": "41",
+    "roles": [
+      "TOP"
+    ],
+    "win_rates": [
+      "49.57%"
+    ]
+  },
+  {
+    "id": "Garen",
+    "key": "86",
+    "roles": [
+      "TOP"
+    ],
+    "win_rates": [
+      "49.38%"
+    ]
+  },
+  {
+    "id": "Gnar",
+    "key": "150",
+    "roles": [
+      "TOP"
+    ],
+    "win_rates": [
+      "49.45%"
+    ]
+  },
+  {
+    "id": "Gragas",
+    "key": "79",
+    "roles": [
+      "TOP",
+      "JUNGLE"
+    ],
+    "win_rates": [
+      "51.30%",
+      "51.01%",
+      "48.55%"
+    ]
+  },
+  {
+    "id": "Graves",
+    "key": "104",
+    "roles": [
+      "JUNGLE"
+    ],
+    "win_rates": [
+      "50.37%"
+    ]
+  },
+  {
+    "id": "Gwen",
+    "key": "887",
+    "roles": [
+      "TOP"
+    ],
+    "win_rates": [
+      "50.66%",
+      "50.48%"
+    ]
+  },
+  {
+    "id": "Hecarim",
+    "key": "120",
+    "roles": [
+      "JUNGLE"
+    ],
+    "win_rates": [
+      "50.02%"
+    ]
+  },
+  {
+    "id": "Heimerdinger",
+    "key": "74",
+    "roles": [
+      "TOP"
+    ],
+    "win_rates": [
+      "50.96%"
+    ]
+  },
+  {
+    "id": "Hwei",
+    "key": "910",
+    "roles": [
+      "MIDDLE"
+    ],
+    "win_rates": [
+      "52.43%",
+      "50.28%",
+      "49.21%"
+    ]
+  },
+  {
+    "id": "Illaoi",
+    "key": "420",
+    "roles": [
+      "TOP"
+    ],
+    "win_rates": [
+      "49.28%"
+    ]
+  },
+  {
+    "id": "Irelia",
+    "key": "39",
+    "roles": [
+      "TOP",
+      "MIDDLE"
+    ],
+    "win_rates": [
+      "50.93%",
+      "51.08%"
+    ]
+  },
+  {
+    "id": "Ivern",
+    "key": "427",
+    "roles": [
+      "JUNGLE"
+    ],
+    "win_rates": [
+      "50.83%"
+    ]
+  },
+  {
+    "id": "Janna",
+    "key": "40",
+    "roles": [
+      "UTILITY"
+    ],
+    "win_rates": [
+      "51.94%"
+    ]
+  },
+  {
+    "id": "Jarvan IV",
+    "key": "59",
+    "roles": [
+      "JUNGLE"
+    ],
+    "win_rates": [
+      "50.35%"
+    ]
+  },
+  {
+    "id": "Jax",
+    "key": "24",
+    "roles": [
+      "TOP"
+    ],
+    "win_rates": [
+      "49.13%",
+      "48.90%"
+    ]
+  },
+  {
+    "id": "Jayce",
+    "key": "126",
+    "roles": [
+      "TOP"
+    ],
+    "win_rates": [
+      "47.51%",
+      "48.12%"
+    ]
+  },
+  {
+    "id": "Jhin",
+    "key": "202",
+    "roles": [
+      "BOTTOM"
+    ],
+    "win_rates": [
+      "50.21%"
+    ]
+  },
+  {
+    "id": "Jinx",
+    "key": "222",
+    "roles": [
+      "BOTTOM"
+    ],
+    "win_rates": [
+      "50.40%"
+    ]
+  },
+  {
+    "id": "Kaisa",
+    "key": "145",
+    "roles": [
+      "BOTTOM"
+    ],
+    "win_rates": [
+      "48.96%"
+    ]
+  },
+  {
+    "id": "Kalista",
+    "key": "429",
+    "roles": [
+      "BOTTOM"
+    ],
+    "win_rates": [
+      "48.22%"
+    ]
+  },
+  {
+    "id": "Karma",
+    "key": "43",
+    "roles": [
+      "UTILITY"
+    ],
+    "win_rates": [
+      "50.59%"
+    ]
+  },
+  {
+    "id": "Karthus",
+    "key": "30",
+    "roles": [
+      "JUNGLE"
+    ],
+    "win_rates": [
+      "53.35%",
+      "50.45%"
+    ]
+  },
+  {
+    "id": "Kassadin",
+    "key": "38",
+    "roles": [
+      "MIDDLE"
+    ],
+    "win_rates": [
+      "50.52%"
+    ]
+  },
+  {
+    "id": "Katarina",
+    "key": "55",
+    "roles": [
+      "MIDDLE"
+    ],
+    "win_rates": [
+      "50.29%"
+    ]
+  },
+  {
+    "id": "Kayle",
+    "key": "10",
+    "roles": [
+      "TOP"
+    ],
+    "win_rates": [
+      "51.98%",
+      "50.15%"
+    ]
+  },
+  {
+    "id": "Kayn",
+    "key": "141",
+    "roles": [
+      "JUNGLE"
+    ],
+    "win_rates": [
+      "51.05%"
+    ]
+  },
+  {
+    "id": "Kennen",
+    "key": "85",
+    "roles": [
+      "TOP"
+    ],
+    "win_rates": [
+      "51.59%",
+      "52.45%"
+    ]
+  },
+  {
+    "id": "Khazix",
+    "key": "121",
+    "roles": [
+      "JUNGLE"
+    ],
+    "win_rates": [
+      "50.46%"
+    ]
+  },
+  {
+    "id": "Kindred",
+    "key": "203",
+    "roles": [
+      "JUNGLE"
+    ],
+    "win_rates": [
+      "49.56%"
+    ]
+  },
+  {
+    "id": "Kled",
+    "key": "240",
+    "roles": [
+      "TOP"
+    ],
+    "win_rates": [
+      "51.58%"
+    ]
+  },
+  {
+    "id": "KogMaw",
+    "key": "96",
+    "roles": [
+      "BOTTOM"
+    ],
+    "win_rates": [
+      "51.95%"
+    ]
+  },
+  {
+    "id": "KSante",
+    "key": "897",
+    "roles": [
+      "TOP"
+    ],
+    "win_rates": [
+      "48.59%"
+    ]
+  },
+  {
+    "id": "Leblanc",
+    "key": "7",
+    "roles": [
+      "MIDDLE"
+    ],
+    "win_rates": [
+      "49.42%",
+      "50.34%"
+    ]
+  },
+  {
+    "id": "Lee Sin",
+    "key": "64",
+    "roles": [
+      "JUNGLE"
+    ],
+    "win_rates": [
+      "49.64%"
+    ]
+  },
+  {
+    "id": "Leona",
+    "key": "89",
+    "roles": [
+      "UTILITY"
+    ],
+    "win_rates": [
+      "49.76%"
+    ]
+  },
+  {
+    "id": "Lillia",
+    "key": "876",
+    "roles": [
+      "JUNGLE"
+    ],
+    "win_rates": [
+      "49.51%"
+    ]
+  },
+  {
+    "id": "Lissandra",
+    "key": "127",
+    "roles": [
+      "MIDDLE"
+    ],
+    "win_rates": [
+      "51.13%"
+    ]
+  },
+  {
+    "id": "Lucian",
+    "key": "236",
+    "roles": [
+      "BOTTOM"
+    ],
+    "win_rates": [
+      "50.34%"
+    ]
+  },
+  {
+    "id": "Lulu",
+    "key": "117",
+    "roles": [
+      "UTILITY"
+    ],
+    "win_rates": [
+      "51.30%"
+    ]
+  },
+  {
+    "id": "Lux",
+    "key": "99",
+    "roles": [
+      "MIDDLE",
+      "UTILITY"
+    ],
+    "win_rates": [
+      "51.08%",
+      "49.26%"
+    ]
+  },
+  {
+    "id": "Malphite",
+    "key": "54",
+    "roles": [
+      "TOP"
+    ],
+    "win_rates": [
+      "51.56%",
+      "52.10%"
+    ]
+  },
+  {
+    "id": "Malzahar",
+    "key": "90",
+    "roles": [
+      "MIDDLE"
+    ],
+    "win_rates": [
+      "50.80%"
+    ]
+  },
+  {
+    "id": "Maokai",
+    "key": "57",
+    "roles": [
+      "UTILITY"
+    ],
+    "win_rates": [
+      "51.68%",
+      "51.72%"
+    ]
+  },
+  {
+    "id": "Master Yi",
+    "key": "11",
+    "roles": [
+      "JUNGLE"
+    ],
+    "win_rates": [
+      "50.74%"
+    ]
+  },
+  {
+    "id": "Milio",
+    "key": "902",
+    "roles": [
+      "UTILITY"
+    ],
+    "win_rates": [
+      "50.77%"
+    ]
+  },
+  {
+    "id": "Miss Fortune",
+    "key": "21",
+    "roles": [
+      "BOTTOM"
+    ],
+    "win_rates": [
+      "51.40%"
+    ]
+  },
+  {
+    "id": "Mordekaiser",
+    "key": "82",
+    "roles": [
+      "TOP"
+    ],
+    "win_rates": [
+      "51.00%"
+    ]
+  },
+  {
+    "id": "Morgana",
+    "key": "25",
+    "roles": [
+      "UTILITY"
+    ],
+    "win_rates": [
+      "50.04%"
+    ]
+  },
+  {
+    "id": "Naafiri",
+    "key": "950",
+    "roles": [
+      "MIDDLE"
+    ],
+    "win_rates": [
+      "51.17%"
+    ]
+  },
+  {
+    "id": "Nami",
+    "key": "267",
+    "roles": [
+      "UTILITY"
+    ],
+    "win_rates": [
+      "51.68%"
+    ]
+  },
+  {
+    "id": "Nasus",
+    "key": "75",
+    "roles": [
+      "TOP"
+    ],
+    "win_rates": [
+      "49.86%"
+    ]
+  },
+  {
+    "id": "Nautilus",
+    "key": "111",
+    "roles": [
+      "UTILITY"
+    ],
+    "win_rates": [
+      "49.21%"
+    ]
+  },
+  {
+    "id": "Neeko",
+    "key": "518",
+    "roles": [
+      "UTILITY"
+    ],
+    "win_rates": [
+      "52.73%",
+      "50.49%"
+    ]
+  },
+  {
+    "id": "Nidalee",
+    "key": "76",
+    "roles": [
+      "JUNGLE"
+    ],
+    "win_rates": [
+      "49.45%"
+    ]
+  },
+  {
+    "id": "Nilah",
+    "key": "895",
+    "roles": [
+      "BOTTOM"
+    ],
+    "win_rates": [
+      "53.33%"
+    ]
+  },
+  {
+    "id": "Nocturne",
+    "key": "56",
+    "roles": [
+      "JUNGLE"
+    ],
+    "win_rates": [
+      "51.32%"
+    ]
+  },
+  {
+    "id": "Nunu & Willump",
+    "key": "20",
+    "roles": [
+      "JUNGLE"
+    ],
+    "win_rates": [
+      "51.52%"
+    ]
+  },
+  {
+    "id": "Olaf",
+    "key": "2",
+    "roles": [
+      "TOP"
+    ],
+    "win_rates": [
+      "51.26%"
+    ]
+  },
+  {
+    "id": "Orianna",
+    "key": "61",
+    "roles": [
+      "MIDDLE"
+    ],
+    "win_rates": [
+      "49.38%"
+    ]
+  },
+  {
+    "id": "Ornn",
+    "key": "516",
+    "roles": [
+      "TOP"
+    ],
+    "win_rates": [
+      "51.41%"
+    ]
+  },
+  {
+    "id": "Pantheon",
+    "key": "80",
+    "roles": [
+      "TOP",
+      "UTILITY"
+    ],
+    "win_rates": [
+      "50.13%",
+      "51.46%",
+      "50.18%",
+      "49.90%"
+    ]
+  },
+  {
+    "id": "Poppy",
+    "key": "78",
+    "roles": [
+      "UTILITY"
+    ],
+    "win_rates": [
+      "52.46%",
+      "51.67%",
+      "49.63%"
+    ]
+  },
+  {
+    "id": "Pyke",
+    "key": "555",
+    "roles": [
+      "UTILITY"
+    ],
+    "win_rates": [
+      "49.68%"
+    ]
+  },
+  {
+    "id": "Qiyana",
+    "key": "246",
+    "roles": [
+      "MIDDLE"
+    ],
+    "win_rates": [
+      "50.99%",
+      "50.65%"
+    ]
+  },
+  {
+    "id": "Quinn",
+    "key": "133",
+    "roles": [
+      "TOP"
+    ],
+    "win_rates": [
+      "51.08%"
+    ]
+  },
+  {
+    "id": "Rakan",
+    "key": "497",
+    "roles": [
+      "UTILITY"
+    ],
+    "win_rates": [
+      "49.47%"
+    ]
+  },
+  {
+    "id": "Rammus",
+    "key": "33",
+    "roles": [
+      "JUNGLE"
+    ],
+    "win_rates": [
+      "50.97%"
+    ]
+  },
+  {
+    "id": "RekSai",
+    "key": "421",
+    "roles": [
+      "JUNGLE"
+    ],
+    "win_rates": [
+      "51.32%"
+    ]
+  },
+  {
+    "id": "Rell",
+    "key": "526",
+    "roles": [
+      "UTILITY"
+    ],
+    "win_rates": [
+      "47.36%"
+    ]
+  },
+  {
+    "id": "Renata Glasc",
+    "key": "888",
+    "roles": [
+      "UTILITY"
+    ],
+    "win_rates": [
+      "49.42%"
+    ]
+  },
+  {
+    "id": "Renekton",
+    "key": "58",
+    "roles": [
+      "TOP"
+    ],
+    "win_rates": [
+      "50.06%",
+      "51.04%"
+    ]
+  },
+  {
+    "id": "Rengar",
+    "key": "107",
+    "roles": [
+      "JUNGLE"
+    ],
+    "win_rates": [
+      "47.87%"
+    ]
+  },
+  {
+    "id": "Riven",
+    "key": "92",
+    "roles": [
+      "TOP"
+    ],
+    "win_rates": [
+      "51.65%"
+    ]
+  },
+  {
+    "id": "Rumble",
+    "key": "68",
+    "roles": [
+      "TOP"
+    ],
+    "win_rates": [
+      "47.25%"
+    ]
+  },
+  {
+    "id": "Ryze",
+    "key": "13",
+    "roles": [
+      "MIDDLE"
+    ],
+    "win_rates": [
+      "52.28%",
+      "51.15%"
+    ]
+  },
+  {
+    "id": "Samira",
+    "key": "360",
+    "roles": [
+      "BOTTOM"
+    ],
+    "win_rates": [
+      "49.22%"
+    ]
+  },
+  {
+    "id": "Sejuani",
+    "key": "113",
+    "roles": [
+      "JUNGLE"
+    ],
+    "win_rates": [
+      "48.42%"
+    ]
+  },
+  {
+    "id": "Senna",
+    "key": "235",
+    "roles": [
+      "UTILITY"
+    ],
+    "win_rates": [
+      "51.38%"
+    ]
+  },
+  {
+    "id": "Seraphine",
+    "key": "147",
+    "roles": [
+      "UTILITY"
+    ],
+    "win_rates": [
+      "52.42%",
+      "50.22%"
+    ]
+  },
+  {
+    "id": "Sett",
+    "key": "875",
+    "roles": [
+      "TOP"
+    ],
+    "win_rates": [
+      "50.19%"
+    ]
+  },
+  {
+    "id": "Shaco",
+    "key": "35",
+    "roles": [
+      "JUNGLE"
+    ],
+    "win_rates": [
+      "50.64%",
+      "49.13%"
+    ]
+  },
+  {
+    "id": "Shen",
+    "key": "98",
+    "roles": [
+      "TOP"
+    ],
+    "win_rates": [
+      "51.35%",
+      "50.37%"
+    ]
+  },
+  {
+    "id": "Shyvana",
+    "key": "102",
+    "roles": [
+      "JUNGLE"
+    ],
+    "win_rates": [
+      "50.07%"
+    ]
+  },
+  {
+    "id": "Singed",
+    "key": "27",
+    "roles": [
+      "TOP"
+    ],
+    "win_rates": [
+      "50.92%"
+    ]
+  },
+  {
+    "id": "Sion",
+    "key": "14",
+    "roles": [
+      "TOP"
+    ],
+    "win_rates": [
+      "50.42%"
+    ]
+  },
+  {
+    "id": "Sivir",
+    "key": "15",
+    "roles": [
+      "BOTTOM"
+    ],
+    "win_rates": [
+      "51.13%"
+    ]
+  },
+  {
+    "id": "Skarner",
+    "key": "72",
+    "roles": [
+      "JUNGLE"
+    ],
+    "win_rates": [
+      "50.12%"
+    ]
+  },
+  {
+    "id": "Smolder",
+    "key": "901",
+    "roles": [
+      "TOP",
+      "MIDDLE",
+      "BOTTOM"
+    ],
+    "win_rates": [
+      "49.02%",
+      "42.89%",
+      "40.85%"
+    ]
+  },
+  {
+    "id": "Sona",
+    "key": "37",
+    "roles": [
+      "UTILITY"
+    ],
+    "win_rates": [
+      "51.81%"
+    ]
+  },
+  {
+    "id": "Soraka",
+    "key": "16",
+    "roles": [
+      "UTILITY"
+    ],
+    "win_rates": [
+      "51.20%"
+    ]
+  },
+  {
+    "id": "Swain",
+    "key": "50",
+    "roles": [
+      "UTILITY"
+    ],
+    "win_rates": [
+      "52.33%",
+      "50.67%",
+      "50.29%",
+      "48.47%"
+    ]
+  },
+  {
+    "id": "Sylas",
+    "key": "517",
+    "roles": [
+      "MIDDLE"
+    ],
+    "win_rates": [
+      "49.97%",
+      "49.47%",
+      "49.80%"
+    ]
+  },
+  {
+    "id": "Syndra",
+    "key": "134",
+    "roles": [
+      "MIDDLE"
+    ],
+    "win_rates": [
+      "49.99%"
+    ]
+  },
+  {
+    "id": "Tahm Kench",
+    "key": "223",
+    "roles": [
+      "TOP",
+      "UTILITY"
+    ],
+    "win_rates": [
+      "52.06%",
+      "51.88%"
+    ]
+  },
+  {
+    "id": "Taliyah",
+    "key": "163",
+    "roles": [
+      "JUNGLE",
+      "MIDDLE"
+    ],
+    "win_rates": [
+      "52.27%",
+      "49.86%"
+    ]
+  },
+  {
+    "id": "Talon",
+    "key": "91",
+    "roles": [
+      "MIDDLE"
+    ],
+    "win_rates": [
+      "51.35%",
+      "50.94%"
+    ]
+  },
+  {
+    "id": "Taric",
+    "key": "44",
+    "roles": [
+      "UTILITY"
+    ],
+    "win_rates": [
+      "52.67%"
+    ]
+  },
+  {
+    "id": "Teemo",
+    "key": "17",
+    "roles": [
+      "TOP",
+      "JUNGLE"
+    ],
+    "win_rates": [
+      "51.31%",
+      "48.36%"
+    ]
+  },
+  {
+    "id": "Thresh",
+    "key": "412",
+    "roles": [
+      "UTILITY"
+    ],
+    "win_rates": [
+      "50.26%"
+    ]
+  },
+  {
+    "id": "Tristana",
+    "key": "18",
+    "roles": [
+      "BOTTOM"
+    ],
+    "win_rates": [
+      "50.25%",
+      "46.00%"
+    ]
+  },
+  {
+    "id": "Trundle",
+    "key": "48",
+    "roles": [
+      "TOP"
+    ],
+    "win_rates": [
+      "50.38%"
+    ]
+  },
+  {
+    "id": "Tryndamere",
+    "key": "23",
+    "roles": [
+      "TOP"
+    ],
+    "win_rates": [
+      "50.40%"
+    ]
+  },
+  {
+    "id": "Twisted Fate",
+    "key": "4",
+    "roles": [
+      "MIDDLE"
+    ],
+    "win_rates": [
+      "50.19%"
+    ]
+  },
+  {
+    "id": "Twitch",
+    "key": "29",
+    "roles": [
+      "BOTTOM"
+    ],
+    "win_rates": [
+      "48.44%"
+    ]
+  },
+  {
+    "id": "Udyr",
+    "key": "77",
+    "roles": [
+      "JUNGLE"
+    ],
+    "win_rates": [
+      "50.68%",
+      "48.92%"
+    ]
+  },
+  {
+    "id": "Urgot",
+    "key": "6",
+    "roles": [
+      "TOP"
+    ],
+    "win_rates": [
+      "51.18%"
+    ]
+  },
+  {
+    "id": "Varus",
+    "key": "110",
+    "roles": [
+      "BOTTOM"
+    ],
+    "win_rates": [
+      "49.41%"
+    ]
+  },
+  {
+    "id": "Vayne",
+    "key": "67",
+    "roles": [
+      "BOTTOM"
+    ],
+    "win_rates": [
+      "51.08%",
+      "50.27%"
+    ]
+  },
+  {
+    "id": "Veigar",
+    "key": "45",
+    "roles": [
+      "MIDDLE"
+    ],
+    "win_rates": [
+      "52.97%",
+      "50.53%"
+    ]
+  },
+  {
+    "id": "Velkoz",
+    "key": "161",
+    "roles": [
+      "UTILITY"
+    ],
+    "win_rates": [
+      "52.21%",
+      "51.39%"
+    ]
+  },
+  {
+    "id": "Vex",
+    "key": "711",
+    "roles": [
+      "MIDDLE"
+    ],
+    "win_rates": [
+      "52.53%"
+    ]
+  },
+  {
+    "id": "Vi",
+    "key": "254",
+    "roles": [
+      "JUNGLE"
+    ],
+    "win_rates": [
+      "49.40%"
+    ]
+  },
+  {
+    "id": "Viego",
+    "key": "234",
+    "roles": [
+      "JUNGLE"
+    ],
+    "win_rates": [
+      "50.26%"
+    ]
+  },
+  {
+    "id": "Viktor",
+    "key": "112",
+    "roles": [
+      "MIDDLE"
+    ],
+    "win_rates": [
+      "49.30%"
+    ]
+  },
+  {
+    "id": "Vladimir",
+    "key": "8",
+    "roles": [
+      "TOP",
+      "MIDDLE"
+    ],
+    "win_rates": [
+      "50.71%",
+      "50.22%"
+    ]
+  },
+  {
+    "id": "Volibear",
+    "key": "106",
+    "roles": [
+      "TOP",
+      "JUNGLE"
+    ],
+    "win_rates": [
+      "50.78%",
+      "50.49%"
+    ]
+  },
+  {
+    "id": "Warwick",
+    "key": "19",
+    "roles": [
+      "JUNGLE"
+    ],
+    "win_rates": [
+      "51.87%",
+      "51.36%"
+    ]
+  },
+  {
+    "id": "Wukong",
+    "key": "62",
+    "roles": [
+      "JUNGLE"
+    ],
+    "win_rates": [
+      "50.89%",
+      "50.85%"
+    ]
+  },
+  {
+    "id": "Xayah",
+    "key": "498",
+    "roles": [
+      "BOTTOM"
+    ],
+    "win_rates": [
+      "50.88%"
+    ]
+  },
+  {
+    "id": "Xerath",
+    "key": "101",
+    "roles": [
+      "MIDDLE",
+      "UTILITY"
+    ],
+    "win_rates": [
+      "50.91%",
+      "50.18%"
+    ]
+  },
+  {
+    "id": "Xin Zhao",
+    "key": "5",
+    "roles": [
+      "JUNGLE"
+    ],
+    "win_rates": [
+      "50.51%"
+    ]
+  },
+  {
+    "id": "Yasuo",
+    "key": "157",
+    "roles": [
+      "TOP",
+      "MIDDLE"
+    ],
+    "win_rates": [
+      "52.18%",
+      "49.32%",
+      "47.94%"
+    ]
+  },
+  {
+    "id": "Yone",
+    "key": "777",
+    "roles": [
+      "TOP",
+      "MIDDLE"
+    ],
+    "win_rates": [
+      "48.19%",
+      "47.38%"
+    ]
+  },
+  {
+    "id": "Yorick",
+    "key": "83",
+    "roles": [
+      "TOP"
+    ],
+    "win_rates": [
+      "50.65%"
+    ]
+  },
+  {
+    "id": "Yuumi",
+    "key": "350",
+    "roles": [
+      "UTILITY"
+    ],
+    "win_rates": [
+      "48.41%"
+    ]
+  },
+  {
+    "id": "Zac",
+    "key": "154",
+    "roles": [
+      "JUNGLE"
+    ],
+    "win_rates": [
+      "51.41%",
+      "49.31%",
+      "47.57%"
+    ]
+  },
+  {
+    "id": "Zed",
+    "key": "238",
+    "roles": [
+      "MIDDLE"
+    ],
+    "win_rates": [
+      "49.19%",
+      "49.59%"
+    ]
+  },
+  {
+    "id": "Zeri",
+    "key": "221",
+    "roles": [
+      "BOTTOM"
+    ],
+    "win_rates": [
+      "49.16%"
+    ]
+  },
+  {
+    "id": "Ziggs",
+    "key": "115",
+    "roles": [
+      "BOTTOM"
+    ],
+    "win_rates": [
+      "51.72%",
+      "48.63%"
+    ]
+  },
+  {
+    "id": "Zilean",
+    "key": "26",
+    "roles": [
+      "UTILITY"
+    ],
+    "win_rates": [
+      "50.52%"
+    ]
+  },
+  {
+    "id": "Zoe",
+    "key": "142",
+    "roles": [
+      "MIDDLE"
+    ],
+    "win_rates": [
+      "50.55%",
+      "49.92%"
+    ]
+  },
+  {
+    "id": "Zyra",
+    "key": "143",
+    "roles": [
+      "UTILITY"
+    ],
+    "win_rates": [
+      "50.74%",
+      "49.91%"
+    ]
+  }
+]
