@@ -1,0 +1,1208 @@
+[
+  {
+    "id": "none",
+    "key": "none",
+    "roles": []
+  },
+  {
+    "id": "Aatrox",
+    "key": "266",
+    "roles": [
+      "TOP"
+    ]
+  },
+  {
+    "id": "Ahri",
+    "key": "103",
+    "roles": [
+      "MIDDLE"
+    ]
+  },
+  {
+    "id": "Akali",
+    "key": "84",
+    "roles": [
+      "MIDDLE"
+    ]
+  },
+  {
+    "id": "Akshan",
+    "key": "166",
+    "roles": [
+      "MIDDLE"
+    ]
+  },
+  {
+    "id": "Alistar",
+    "key": "12",
+    "roles": [
+      "UTILITY"
+    ]
+  },
+  {
+    "id": "Ambessa",
+    "key": "799",
+    "roles": [
+        "TOP",
+        "JUNGLE"
+    ]
+  },
+  {
+    "id": "Amumu",
+    "key": "32",
+    "roles": [
+      "JUNGLE"
+    ]
+  },
+  {
+    "id": "Anivia",
+    "key": "34",
+    "roles": [
+      "MIDDLE"
+    ]
+  },
+  {
+    "id": "Annie",
+    "key": "1",
+    "roles": [
+      "MIDDLE"
+    ]
+  },
+  {
+    "id": "Aphelios",
+    "key": "523",
+    "roles": [
+      "BOTTOM"
+    ]
+  },
+  {
+    "id": "Ashe",
+    "key": "22",
+    "roles": [
+      "BOTTOM"
+    ]
+  },
+  {
+    "id": "Aurelion Sol",
+    "key": "136",
+    "roles": [
+      "MIDDLE"
+    ]
+  },
+  {
+    "id": "Aurora",
+    "key": "893",
+    "roles": [
+      "TOP",
+      "MIDDLE"
+    ]
+  },
+  {
+    "id": "Azir",
+    "key": "268",
+    "roles": [
+      "MIDDLE"
+    ]
+  },
+  {
+    "id": "Bard",
+    "key": "432",
+    "roles": [
+      "UTILITY"
+    ]
+  },
+  {
+    "id": "Belveth",
+    "key": "200",
+    "roles": [
+      "JUNGLE"
+    ]
+  },
+  {
+    "id": "Blitzcrank",
+    "key": "53",
+    "roles": [
+      "UTILITY"
+    ]
+  },
+  {
+    "id": "Brand",
+    "key": "63",
+    "roles": [
+      "UTILITY"
+    ]
+  },
+  {
+    "id": "Braum",
+    "key": "201",
+    "roles": [
+      "UTILITY"
+    ]
+  },
+  {
+    "id": "Briar",
+    "key": "233",
+    "roles": [
+      "JUNGLE"
+    ]
+  },
+  {
+    "id": "Caitlyn",
+    "key": "51",
+    "roles": [
+      "BOTTOM"
+    ]
+  },
+  {
+    "id": "Camille",
+    "key": "164",
+    "roles": [
+      "TOP"
+    ]
+  },
+  {
+    "id": "Cassiopeia",
+    "key": "69",
+    "roles": [
+      "MIDDLE"
+    ]
+  },
+  {
+    "id": "Chogath",
+    "key": "31",
+    "roles": [
+      "TOP"
+    ]
+  },
+  {
+    "id": "Corki",
+    "key": "42",
+    "roles": [
+      "MIDDLE",
+      "BOTTOM"
+    ]
+  },
+  {
+    "id": "Darius",
+    "key": "122",
+    "roles": [
+      "TOP"
+    ]
+  },
+  {
+    "id": "Diana",
+    "key": "131",
+    "roles": [
+      "JUNGLE",
+      "MIDDLE"
+    ]
+  },
+  {
+    "id": "Draven",
+    "key": "119",
+    "roles": [
+      "BOTTOM"
+    ]
+  },
+  {
+    "id": "Dr Mundo",
+    "key": "36",
+    "roles": [
+      "TOP"
+    ]
+  },
+  {
+    "id": "Ekko",
+    "key": "245",
+    "roles": [
+      "JUNGLE"
+    ]
+  },
+  {
+    "id": "Elise",
+    "key": "60",
+    "roles": [
+      "JUNGLE"
+    ]
+  },
+  {
+    "id": "Evelynn",
+    "key": "28",
+    "roles": [
+      "JUNGLE"
+    ]
+  },
+  {
+    "id": "Ezreal",
+    "key": "81",
+    "roles": [
+      "BOTTOM"
+    ]
+  },
+  {
+    "id": "Fiddlesticks",
+    "key": "9",
+    "roles": [
+      "JUNGLE"
+    ]
+  },
+  {
+    "id": "Fiora",
+    "key": "114",
+    "roles": [
+      "TOP"
+    ]
+  },
+  {
+    "id": "Fizz",
+    "key": "105",
+    "roles": [
+      "MIDDLE"
+    ]
+  },
+  {
+    "id": "Galio",
+    "key": "3",
+    "roles": [
+      "MIDDLE"
+    ]
+  },
+  {
+    "id": "Gangplank",
+    "key": "41",
+    "roles": [
+      "TOP"
+    ]
+  },
+  {
+    "id": "Garen",
+    "key": "86",
+    "roles": [
+      "TOP"
+    ]
+  },
+  {
+    "id": "Gnar",
+    "key": "150",
+    "roles": [
+      "TOP"
+    ]
+  },
+  {
+    "id": "Gragas",
+    "key": "79",
+    "roles": [
+      "TOP",
+      "JUNGLE"
+    ]
+  },
+  {
+    "id": "Graves",
+    "key": "104",
+    "roles": [
+      "JUNGLE"
+    ]
+  },
+  {
+    "id": "Gwen",
+    "key": "887",
+    "roles": [
+      "TOP"
+    ]
+  },
+  {
+    "id": "Hecarim",
+    "key": "120",
+    "roles": [
+      "JUNGLE"
+    ]
+  },
+  {
+    "id": "Heimerdinger",
+    "key": "74",
+    "roles": [
+      "TOP"
+    ]
+  },
+  {
+    "id": "Hwei",
+    "key": "910",
+    "roles": [
+      "MIDDLE"
+    ]
+  },
+  {
+    "id": "Illaoi",
+    "key": "420",
+    "roles": [
+      "TOP"
+    ]
+  },
+  {
+    "id": "Irelia",
+    "key": "39",
+    "roles": [
+      "TOP",
+      "MIDDLE"
+    ]
+  },
+  {
+    "id": "Ivern",
+    "key": "427",
+    "roles": [
+      "JUNGLE"
+    ]
+  },
+  {
+    "id": "Janna",
+    "key": "40",
+    "roles": [
+      "UTILITY"
+    ]
+  },
+  {
+    "id": "Jarvan IV",
+    "key": "59",
+    "roles": [
+      "JUNGLE"
+    ]
+  },
+  {
+    "id": "Jax",
+    "key": "24",
+    "roles": [
+      "TOP"
+    ]
+  },
+  {
+    "id": "Jayce",
+    "key": "126",
+    "roles": [
+      "TOP"
+    ]
+  },
+  {
+    "id": "Jhin",
+    "key": "202",
+    "roles": [
+      "BOTTOM"
+    ]
+  },
+  {
+    "id": "Jinx",
+    "key": "222",
+    "roles": [
+      "BOTTOM"
+    ]
+  },
+  {
+    "id": "Kaisa",
+    "key": "145",
+    "roles": [
+      "BOTTOM"
+    ]
+  },
+  {
+    "id": "Kalista",
+    "key": "429",
+    "roles": [
+      "BOTTOM"
+    ]
+  },
+  {
+    "id": "Karma",
+    "key": "43",
+    "roles": [
+      "UTILITY"
+    ]
+  },
+  {
+    "id": "Karthus",
+    "key": "30",
+    "roles": [
+      "JUNGLE"
+    ]
+  },
+  {
+    "id": "Kassadin",
+    "key": "38",
+    "roles": [
+      "MIDDLE"
+    ]
+  },
+  {
+    "id": "Katarina",
+    "key": "55",
+    "roles": [
+      "MIDDLE"
+    ]
+  },
+  {
+    "id": "Kayle",
+    "key": "10",
+    "roles": [
+      "TOP"
+    ]
+  },
+  {
+    "id": "Kayn",
+    "key": "141",
+    "roles": [
+      "JUNGLE"
+    ]
+  },
+  {
+    "id": "Kennen",
+    "key": "85",
+    "roles": [
+      "TOP"
+    ]
+  },
+  {
+    "id": "Khazix",
+    "key": "121",
+    "roles": [
+      "JUNGLE"
+    ]
+  },
+  {
+    "id": "Kindred",
+    "key": "203",
+    "roles": [
+      "JUNGLE"
+    ]
+  },
+  {
+    "id": "Kled",
+    "key": "240",
+    "roles": [
+      "TOP"
+    ]
+  },
+  {
+    "id": "KogMaw",
+    "key": "96",
+    "roles": [
+      "BOTTOM"
+    ]
+  },
+  {
+    "id": "KSante",
+    "key": "897",
+    "roles": [
+      "TOP"
+    ]
+  },
+  {
+    "id": "Leblanc",
+    "key": "7",
+    "roles": [
+      "MIDDLE"
+    ]
+  },
+  {
+    "id": "Lee Sin",
+    "key": "64",
+    "roles": [
+      "JUNGLE"
+    ]
+  },
+  {
+    "id": "Leona",
+    "key": "89",
+    "roles": [
+      "UTILITY"
+    ]
+  },
+  {
+    "id": "Lillia",
+    "key": "876",
+    "roles": [
+      "JUNGLE"
+    ]
+  },
+  {
+    "id": "Lissandra",
+    "key": "127",
+    "roles": [
+      "MIDDLE"
+    ]
+  },
+  {
+    "id": "Lucian",
+    "key": "236",
+    "roles": [
+      "BOTTOM"
+    ]
+  },
+  {
+    "id": "Lulu",
+    "key": "117",
+    "roles": [
+      "UTILITY"
+    ]
+  },
+  {
+    "id": "Lux",
+    "key": "99",
+    "roles": [
+      "MIDDLE",
+      "UTILITY"
+    ]
+  },
+  {
+    "id": "Malphite",
+    "key": "54",
+    "roles": [
+      "TOP"
+    ]
+  },
+  {
+    "id": "Malzahar",
+    "key": "90",
+    "roles": [
+      "MIDDLE"
+    ]
+  },
+  {
+    "id": "Maokai",
+    "key": "57",
+    "roles": [
+      "UTILITY"
+    ]
+  },
+  {
+    "id": "Master Yi",
+    "key": "11",
+    "roles": [
+      "JUNGLE"
+    ]
+  },
+  {
+    "id": "Milio",
+    "key": "902",
+    "roles": [
+      "UTILITY"
+    ]
+  },
+  {
+    "id": "Miss Fortune",
+    "key": "21",
+    "roles": [
+      "BOTTOM"
+    ]
+  },
+  {
+    "id": "Mordekaiser",
+    "key": "82",
+    "roles": [
+      "TOP"
+    ]
+  },
+  {
+    "id": "Morgana",
+    "key": "25",
+    "roles": [
+      "UTILITY"
+    ]
+  },
+  {
+    "id": "Naafiri",
+    "key": "950",
+    "roles": [
+      "MIDDLE"
+    ]
+  },
+  {
+    "id": "Nami",
+    "key": "267",
+    "roles": [
+      "UTILITY"
+    ]
+  },
+  {
+    "id": "Nasus",
+    "key": "75",
+    "roles": [
+      "TOP"
+    ]
+  },
+  {
+    "id": "Nautilus",
+    "key": "111",
+    "roles": [
+      "UTILITY"
+    ]
+  },
+  {
+    "id": "Neeko",
+    "key": "518",
+    "roles": [
+      "UTILITY"
+    ]
+  },
+  {
+    "id": "Nidalee",
+    "key": "76",
+    "roles": [
+      "JUNGLE"
+    ]
+  },
+  {
+    "id": "Nilah",
+    "key": "895",
+    "roles": [
+      "BOTTOM"
+    ]
+  },
+  {
+    "id": "Nocturne",
+    "key": "56",
+    "roles": [
+      "JUNGLE"
+    ]
+  },
+  {
+    "id": "Nunu & Willump",
+    "key": "20",
+    "roles": [
+      "JUNGLE"
+    ]
+  },
+  {
+    "id": "Olaf",
+    "key": "2",
+    "roles": [
+      "TOP"
+    ]
+  },
+  {
+    "id": "Orianna",
+    "key": "61",
+    "roles": [
+      "MIDDLE"
+    ]
+  },
+  {
+    "id": "Ornn",
+    "key": "516",
+    "roles": [
+      "TOP"
+    ]
+  },
+  {
+    "id": "Pantheon",
+    "key": "80",
+    "roles": [
+      "TOP",
+      "UTILITY"
+    ]
+  },
+  {
+    "id": "Poppy",
+    "key": "78",
+    "roles": [
+      "UTILITY"
+    ]
+  },
+  {
+    "id": "Pyke",
+    "key": "555",
+    "roles": [
+      "UTILITY"
+    ]
+  },
+  {
+    "id": "Qiyana",
+    "key": "246",
+    "roles": [
+      "MIDDLE"
+    ]
+  },
+  {
+    "id": "Quinn",
+    "key": "133",
+    "roles": [
+      "TOP"
+    ]
+  },
+  {
+    "id": "Rakan",
+    "key": "497",
+    "roles": [
+      "UTILITY"
+    ]
+  },
+  {
+    "id": "Rammus",
+    "key": "33",
+    "roles": [
+      "JUNGLE"
+    ]
+  },
+  {
+    "id": "RekSai",
+    "key": "421",
+    "roles": [
+      "JUNGLE"
+    ]
+  },
+  {
+    "id": "Rell",
+    "key": "526",
+    "roles": [
+      "UTILITY"
+    ]
+  },
+  {
+    "id": "Renata Glasc",
+    "key": "888",
+    "roles": [
+      "UTILITY"
+    ]
+  },
+  {
+    "id": "Renekton",
+    "key": "58",
+    "roles": [
+      "TOP"
+    ]
+  },
+  {
+    "id": "Rengar",
+    "key": "107",
+    "roles": [
+      "JUNGLE"
+    ]
+  },
+  {
+    "id": "Riven",
+    "key": "92",
+    "roles": [
+      "TOP"
+    ]
+  },
+  {
+    "id": "Rumble",
+    "key": "68",
+    "roles": [
+      "TOP"
+    ]
+  },
+  {
+    "id": "Ryze",
+    "key": "13",
+    "roles": [
+      "MIDDLE"
+    ]
+  },
+  {
+    "id": "Samira",
+    "key": "360",
+    "roles": [
+      "BOTTOM"
+    ]
+  },
+  {
+    "id": "Sejuani",
+    "key": "113",
+    "roles": [
+      "JUNGLE"
+    ]
+  },
+  {
+    "id": "Senna",
+    "key": "235",
+    "roles": [
+      "UTILITY"
+    ]
+  },
+  {
+    "id": "Seraphine",
+    "key": "147",
+    "roles": [
+      "UTILITY"
+    ]
+  },
+  {
+    "id": "Sett",
+    "key": "875",
+    "roles": [
+      "TOP"
+    ]
+  },
+  {
+    "id": "Shaco",
+    "key": "35",
+    "roles": [
+      "JUNGLE"
+    ]
+  },
+  {
+    "id": "Shen",
+    "key": "98",
+    "roles": [
+      "TOP"
+    ]
+  },
+  {
+    "id": "Shyvana",
+    "key": "102",
+    "roles": [
+      "JUNGLE"
+    ]
+  },
+  {
+    "id": "Singed",
+    "key": "27",
+    "roles": [
+      "TOP"
+    ]
+  },
+  {
+    "id": "Sion",
+    "key": "14",
+    "roles": [
+      "TOP"
+    ]
+  },
+  {
+    "id": "Sivir",
+    "key": "15",
+    "roles": [
+      "BOTTOM"
+    ]
+  },
+  {
+    "id": "Skarner",
+    "key": "72",
+    "roles": [
+      "JUNGLE"
+    ]
+  },
+  {
+    "id": "Smolder",
+    "key": "901",
+    "roles": [
+      "TOP",
+      "MIDDLE",
+      "BOTTOM"
+    ]
+  },
+  {
+    "id": "Sona",
+    "key": "37",
+    "roles": [
+      "UTILITY"
+    ]
+  },
+  {
+    "id": "Soraka",
+    "key": "16",
+    "roles": [
+      "UTILITY"
+    ]
+  },
+  {
+    "id": "Swain",
+    "key": "50",
+    "roles": [
+      "UTILITY"
+    ]
+  },
+  {
+    "id": "Sylas",
+    "key": "517",
+    "roles": [
+      "MIDDLE"
+    ]
+  },
+  {
+    "id": "Syndra",
+    "key": "134",
+    "roles": [
+      "MIDDLE"
+    ]
+  },
+  {
+    "id": "Tahm Kench",
+    "key": "223",
+    "roles": [
+      "TOP",
+      "UTILITY"
+    ]
+  },
+  {
+    "id": "Taliyah",
+    "key": "163",
+    "roles": [
+      "JUNGLE",
+      "MIDDLE"
+    ]
+  },
+  {
+    "id": "Talon",
+    "key": "91",
+    "roles": [
+      "MIDDLE"
+    ]
+  },
+  {
+    "id": "Taric",
+    "key": "44",
+    "roles": [
+      "UTILITY"
+    ]
+  },
+  {
+    "id": "Teemo",
+    "key": "17",
+    "roles": [
+      "TOP",
+      "JUNGLE"
+    ]
+  },
+  {
+    "id": "Thresh",
+    "key": "412",
+    "roles": [
+      "UTILITY"
+    ]
+  },
+  {
+    "id": "Tristana",
+    "key": "18",
+    "roles": [
+      "BOTTOM"
+    ]
+  },
+  {
+    "id": "Trundle",
+    "key": "48",
+    "roles": [
+      "TOP"
+    ]
+  },
+  {
+    "id": "Tryndamere",
+    "key": "23",
+    "roles": [
+      "TOP"
+    ]
+  },
+  {
+    "id": "Twisted Fate",
+    "key": "4",
+    "roles": [
+      "MIDDLE"
+    ]
+  },
+  {
+    "id": "Twitch",
+    "key": "29",
+    "roles": [
+      "BOTTOM"
+    ]
+  },
+  {
+    "id": "Udyr",
+    "key": "77",
+    "roles": [
+      "JUNGLE"
+    ]
+  },
+  {
+    "id": "Urgot",
+    "key": "6",
+    "roles": [
+      "TOP"
+    ]
+  },
+  {
+    "id": "Varus",
+    "key": "110",
+    "roles": [
+      "BOTTOM"
+    ]
+  },
+  {
+    "id": "Vayne",
+    "key": "67",
+    "roles": [
+      "BOTTOM"
+    ]
+  },
+  {
+    "id": "Veigar",
+    "key": "45",
+    "roles": [
+      "MIDDLE"
+    ]
+  },
+  {
+    "id": "Velkoz",
+    "key": "161",
+    "roles": [
+      "UTILITY"
+    ]
+  },
+  {
+    "id": "Vex",
+    "key": "711",
+    "roles": [
+      "MIDDLE"
+    ]
+  },
+  {
+    "id": "Vi",
+    "key": "254",
+    "roles": [
+      "JUNGLE"
+    ]
+  },
+  {
+    "id": "Viego",
+    "key": "234",
+    "roles": [
+      "JUNGLE"
+    ]
+  },
+  {
+    "id": "Viktor",
+    "key": "112",
+    "roles": [
+      "MIDDLE"
+    ]
+  },
+  {
+    "id": "Vladimir",
+    "key": "8",
+    "roles": [
+      "TOP",
+      "MIDDLE"
+    ]
+  },
+  {
+    "id": "Volibear",
+    "key": "106",
+    "roles": [
+      "TOP",
+      "JUNGLE"
+    ]
+  },
+  {
+    "id": "Warwick",
+    "key": "19",
+    "roles": [
+      "JUNGLE"
+    ]
+  },
+  {
+    "id": "Wukong",
+    "key": "62",
+    "roles": [
+      "JUNGLE"
+    ]
+  },
+  {
+    "id": "Xayah",
+    "key": "498",
+    "roles": [
+      "BOTTOM"
+    ]
+  },
+  {
+    "id": "Xerath",
+    "key": "101",
+    "roles": [
+      "MIDDLE",
+      "UTILITY"
+    ]
+  },
+  {
+    "id": "Xin Zhao",
+    "key": "5",
+    "roles": [
+      "JUNGLE"
+    ]
+  },
+  {
+    "id": "Yasuo",
+    "key": "157",
+    "roles": [
+      "TOP",
+      "MIDDLE"
+    ]
+  },
+  {
+    "id": "Yone",
+    "key": "777",
+    "roles": [
+      "TOP",
+      "MIDDLE"
+    ]
+  },
+  {
+    "id": "Yorick",
+    "key": "83",
+    "roles": [
+      "TOP"
+    ]
+  },
+  {
+    "id": "Yuumi",
+    "key": "350",
+    "roles": [
+      "UTILITY"
+    ]
+  },
+  {
+    "id": "Zac",
+    "key": "154",
+    "roles": [
+      "JUNGLE"
+    ]
+  },
+  {
+    "id": "Zed",
+    "key": "238",
+    "roles": [
+      "MIDDLE"
+    ]
+  },
+  {
+    "id": "Zeri",
+    "key": "221",
+    "roles": [
+      "BOTTOM"
+    ]
+  },
+  {
+    "id": "Ziggs",
+    "key": "115",
+    "roles": [
+      "BOTTOM"
+    ]
+  },
+  {
+    "id": "Zilean",
+    "key": "26",
+    "roles": [
+      "UTILITY"
+    ]
+  },
+  {
+    "id": "Zoe",
+    "key": "142",
+    "roles": [
+      "MIDDLE"
+    ]
+  },
+  {
+    "id": "Zyra",
+    "key": "143",
+    "roles": [
+      "UTILITY"
+    ]
+  }
+]
